@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+h2 {
+  background-color: grey;
+  margin: auto;
+  height: 100%;
+  min-height: 200px; 
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
