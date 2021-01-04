@@ -12,12 +12,12 @@ class App extends Component {
   //   // setCity(e.target.value)
     
   // }
-  constructor(){
-    super();
-    this.state = {
-      city: "New York"
-    }
-  }
+  // constructor(){
+  //   super();
+  //   this.state = {
+  //     city: "New York"
+  //   }
+  // }
 
 
 
